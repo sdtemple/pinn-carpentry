@@ -6,9 +6,9 @@ Progress bar:
 1. Read and reproduce results in this paper
    - https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022WR033168
 2. Incorporate Bayesian uncertainty quantification
-   - This paper:
+   - This paper: https://www.sciencedirect.com/science/article/pii/S0021999120306872
   
-Under this folder, we have copied over the following Zenodo repository.
+Under this folder PINN\_SVE\_data\_assimilation/, we have copied over the following Zenodo repository.
 https://zenodo.org/records/7118168
 
 Some other papers / repos of interest:
