@@ -7,6 +7,8 @@ Progress bar:
    - https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022WR033168
 2. Incorporate Bayesian uncertainty quantification
    - This paper: https://www.sciencedirect.com/science/article/pii/S0021999120306872
+   - This repo: https://github.com/giuliamesc/BPINNs
+   - You can't see files by clicking on web browser. They do exist in terminal files though.
   
 Under this folder PINN\_SVE\_data\_assimilation/, we have copied over the following Zenodo repository.
 https://zenodo.org/records/7118168
