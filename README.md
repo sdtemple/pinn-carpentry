@@ -14,4 +14,7 @@ https://zenodo.org/records/7118168
 Some other papers / repos of interest:
 - https://github.com/DENG-MIT/Stiff-PINN
 - https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023SW003823
+- https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03264-0
+- https://github.com/benmoseley/harmonic-oscillator-pinn
+- https://github.com/nmerovingian/PINN-CV
 
